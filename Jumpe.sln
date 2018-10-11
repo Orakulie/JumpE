@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jumpe", "Jumpe.csproj", "{8D8E9714-DA12-5856-ABCB-320B98AE99B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jumpe.Editor", "Jumpe.Editor.csproj", "{9B286858-EB2D-2BEC-22A1-5F0C225D75EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D8E9714-DA12-5856-ABCB-320B98AE99B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D8E9714-DA12-5856-ABCB-320B98AE99B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D8E9714-DA12-5856-ABCB-320B98AE99B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D8E9714-DA12-5856-ABCB-320B98AE99B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B286858-EB2D-2BEC-22A1-5F0C225D75EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B286858-EB2D-2BEC-22A1-5F0C225D75EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B286858-EB2D-2BEC-22A1-5F0C225D75EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B286858-EB2D-2BEC-22A1-5F0C225D75EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

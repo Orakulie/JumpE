@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: b2caad163d431384b92123c3d34206f9
+timeCreated: 1481920863
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone_001
+    100004: Bone_002
+    100006: Bone_003
+    100008: Bone_004
+    100010: Bone_005
+    100012: Bone_010
+    100014: Bone_011
+    100016: Bone_013
+    100018: Bone_014
+    100020: Bone_015
+    100022: Bone_016
+    100024: Bone_017
+    100026: Bone_027
+    100028: Bone_028
+    100030: Bone_029
+    100032: Bone_030
+    100034: Bone_031
+    100036: Cube
+    100038: Fu__L
+    100040: Fu__R
+    100042: Fu_V_L
+    100044: Fu_V_R
+    100046: OberBein_L
+    100048: OberBein_R
+    100050: OberBeinV_L
+    100052: OberBeinV_R
+    100054: Ohr1_L
+    100056: Ohr1_R
+    100058: Ohr2_L
+    100060: Ohr2_R
+    100062: //RootNode
+    100064: Schenkel_L
+    100066: Schenkel_R
+    100068: SchenkelV_L
+    100070: SchenkelV_R
+    100072: UnterBein_L
+    100074: UnterBein_R
+    100076: UnterBeinV_L
+    100078: UnterBeinV_R
+    400000: Armature
+    400002: Bone_001
+    400004: Bone_002
+    400006: Bone_003
+    400008: Bone_004
+    400010: Bone_005
+    400012: Bone_010
+    400014: Bone_011
+    400016: Bone_013
+    400018: Bone_014
+    400020: Bone_015
+    400022: Bone_016
+    400024: Bone_017
+    400026: Bone_027
+    400028: Bone_028
+    400030: Bone_029
+    400032: Bone_030
+    400034: Bone_031
+    400036: Cube
+    400038: Fu__L
+    400040: Fu__R
+    400042: Fu_V_L
+    400044: Fu_V_R
+    400046: OberBein_L
+    400048: OberBein_R
+    400050: OberBeinV_L
+    400052: OberBeinV_R
+    400054: Ohr1_L
+    400056: Ohr1_R
+    400058: Ohr2_L
+    400060: Ohr2_R
+    400062: //RootNode
+    400064: Schenkel_L
+    400066: Schenkel_R
+    400068: SchenkelV_L
+    400070: SchenkelV_R
+    400072: UnterBein_L
+    400074: UnterBein_R
+    400076: UnterBeinV_L
+    400078: UnterBeinV_R
+    4300000: Cube
+    7400000: Default Take
+    7400002: Walk
+    9500000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
